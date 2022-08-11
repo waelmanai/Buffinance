@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="136" viewBox="0 0 136 136">
+  <g id="lock-ico" transform="translate(-376 -1872)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="136" height="136" rx="68" transform="translate(376 1872)" fill="#fff" opacity="0.5"/>
+    <path id="Icon_awesome-lock" data-name="Icon awesome-lock" d="M41.262,23.107H38.786V15.679a15.679,15.679,0,1,0-31.359,0v7.427H4.951A4.953,4.953,0,0,0,0,28.058V47.864a4.953,4.953,0,0,0,4.951,4.951h36.31a4.953,4.953,0,0,0,4.951-4.951V28.058A4.953,4.953,0,0,0,41.262,23.107Zm-10.728,0H15.679V15.679a7.427,7.427,0,1,1,14.854,0Z" transform="translate(420.193 1913.593)" fill="#fff"/>
+  </g>
+</svg>

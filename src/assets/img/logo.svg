@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
+  <g id="logo" transform="translate(-140 -84)">
+    <text id="Buffinance" transform="translate(201 116)" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Buffinance</tspan></text>
+    <g id="Groupe_1" data-name="Groupe 1" transform="translate(0 48)">
+      <path id="Polygone_1" data-name="Polygone 1" d="M16.5,0,22,9.5,16.5,19H5.5L0,9.5,5.5,0Z" transform="translate(162 38)" fill="#ff0054"/>
+      <path id="Polygone_3" data-name="Polygone 3" d="M16.5,0,22,9.5,16.5,19H5.5L0,9.5,5.5,0Z" transform="translate(151 57)" fill="#6a00ff"/>
+      <path id="Polygone_2" data-name="Polygone 2" d="M16.5,0,22,9.5,16.5,19H5.5L0,9.5,5.5,0Z" transform="translate(140 38)" fill="#ff8400"/>
+    </g>
+  </g>
+</svg>

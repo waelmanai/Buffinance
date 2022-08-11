@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="226" height="226" viewBox="0 0 226 226">
+  <defs>
+    <filter id="Rectangle_13" x="0" y="0" width="226" height="226" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="23" result="blur"/>
+      <feFlood flood-color="#acacac" flood-opacity="0.549"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="calendar-ico" transform="translate(-144 -1873)">
+    <g transform="matrix(1, 0, 0, 1, 144, 1873)" filter="url(#Rectangle_13)">
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" width="88" height="88" rx="15" transform="translate(59 49)" fill="#ff0054"/>
+    </g>
+    <path id="Icon_awesome-calendar-check" data-name="Icon awesome-calendar-check" d="M38.325,14.064H1.055A1.055,1.055,0,0,1,0,13.009V9.845A4.219,4.219,0,0,1,4.219,5.626H8.439V1.055A1.055,1.055,0,0,1,9.493,0h3.516a1.055,1.055,0,0,1,1.055,1.055V5.626H25.316V1.055A1.055,1.055,0,0,1,26.371,0h3.516a1.055,1.055,0,0,1,1.055,1.055V5.626h4.219A4.219,4.219,0,0,1,39.38,9.845v3.164A1.055,1.055,0,0,1,38.325,14.064ZM1.055,16.877h37.27a1.055,1.055,0,0,1,1.055,1.055V40.786a4.219,4.219,0,0,1-4.219,4.219H4.219A4.219,4.219,0,0,1,0,40.786V17.932A1.055,1.055,0,0,1,1.055,16.877Zm29.3,8.434-2.476-2.5a1.055,1.055,0,0,0-1.492-.006l-9.321,9.246L13.022,27.98a1.055,1.055,0,0,0-1.492-.006l-2.5,2.476a1.055,1.055,0,0,0-.006,1.492l7.261,7.319a1.055,1.055,0,0,0,1.492.006L30.346,26.8a1.055,1.055,0,0,0,.006-1.492Z" transform="translate(227 1943)" fill="#fff"/>
+  </g>
+</svg>
